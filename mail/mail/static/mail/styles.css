@@ -1,0 +1,103 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif,sans-serif;
+    background-image: radial-gradient(#A0D4E6,#F3F3F3);
+    margin: 0;
+    padding: 0;
+    position: relative;
+
+}
+
+textarea {
+    min-height: 350px;
+}
+
+
+.send_email{
+    color: black;
+    font-weight: 700;
+    font-size: .875rem;
+    letter-spacing: .2px;
+}
+
+.subject_email{
+    color: black;
+    font-size: .875rem;
+    letter-spacing: .2px;
+}
+
+.timestamp_email{
+    color: black;
+    font-size: .75rem;
+    letter-spacing: .3px;
+}
+
+.mailbox{
+    position: relative;
+    top: 13.9px;
+    bottom: -20px;
+    left: -13%;
+    box-sizing: border-box;
+}
+
+.usermail{
+    position: relative;
+    top: -95px;
+    left: -3.9%;
+}
+
+#inbox{
+    position: relative;
+    top: -95px;
+    left: -3.9%;
+}
+
+#compose{
+    position: relative;
+    top: -95px;
+    left: -3.9%;
+}
+
+#sent{
+    position: relative;
+    top: -95px;
+    left: -3.9%;
+}
+
+#archived{
+    position: relative;
+    top: -95px;
+    left: -3.9%;
+}
+
+#logout{
+    position: relative;
+    top: -95px;
+    left: -3.9%;
+}
+
+.line{
+    position: relative;
+    top: -95px;
+    left: -3.9%;
+}
+
+#emails-view{
+    position: relative;
+    top: -95px;
+    left: -3.9%;
+}
+
+#compose-view{
+    position: relative;
+    top: -95px;
+    left: -3.9%;
+}
+
+.text{
+    position: relative;
+    left: 1.2%;
+    top: -10px;
+    font-family: Georgia, 'Times New Roman', Times, serif,sans-serif;
+    font-size: 0.9rem;
+
+}
